@@ -52,7 +52,7 @@ Install with dependencies
 Start the server
 
 ```bash
-  npx prisma studio
+  npm run dev
 ```
 
 ### Front-end Web
