@@ -18,13 +18,23 @@ Describe what you learned and implemented in the project. -->
 
 ## 💡 Technologies used
 
-- [x] React
-- [x] React Native
+### Back-end
+
 - [x] Node
 - [x] TypeScript
 - [x] Prisma
 - [x] fastify
+
+### Front-end Web
+
 - [x] Next
+- [x] React
+- [x] Tailwind
+- [x] axios
+
+### Mobile
+
+- [x] React Native
 - [x] Native Base
 
 ## 🚀 Running the project
@@ -78,7 +88,7 @@ Install with dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 ### Mobile
