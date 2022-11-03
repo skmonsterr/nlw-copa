@@ -34,6 +34,7 @@ Describe what you learned and implemented in the project. -->
 
 ### Mobile
 
+- [x] Expo
 - [x] React Native
 - [x] Native Base
 
@@ -114,7 +115,7 @@ Install with dependencies
 Start the server
 
 ```bash
-  npm run start
+  npx expo start
 ```
 
 <!-- ## 📝 Routes
